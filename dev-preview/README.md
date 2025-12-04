@@ -52,6 +52,7 @@ Features on Development Preview
   - [Insights Proxy ACM Addon](#insights-proxy-acm-addon)
     - [Installation](#installation-6)
     - [Usage](#usage-6)
+  - [MCP Server for Search](#mcp-server-for-search)
 
 ## Ansible Collection & Inventory Plugin
 
@@ -296,6 +297,11 @@ For detailed installation instructions, see the [Kueue Addon Installation Guide 
 ### Usage
 
 For detailed usage scenarios and examples, see the [Kueue Addon Usage Scenarios](https://github.com/open-cluster-management-io/ocm/tree/main/solutions/kueue-admission-check#usage-scenarios).
+
+## MCP Server for Search
+
+This feature exposes a Model Context Protocol (MCP) server that provides secure access to ACM (Advanced Cluster Management) Search API. It enables AI assistants and MCP clients to query and analyze Kubernetes resources across a fleet of managed clusters through a standardized interface. For quick set up, follow instructions 
+[here](https://github.com/stolostron/search-mcp-server/blob/main/README.md#quick-start). This can be also integrated with existing OpenShift Lightspeed installation in a ACM Hub cluster as explained [here](https://github.com/stolostron/search-mcp-server/blob/main/ols-integration.md).
 
 # Graduated features
 
