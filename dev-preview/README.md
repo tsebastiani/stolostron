@@ -35,6 +35,9 @@ Features on Development Preview
   - [Kueue Addon](#kueue-addon)
     - [Installation](#installation-5)
     - [Usage](#usage-5)
+  - [Krkn Operator ACM Integration](#krkn-operator-acm-integration)
+      - [Installation](#installation-7)
+      - [Usage](#usage-7)
 - [Graduated features](#graduated-features)
     - [Hosted Control Planes with MCE (MCE 2.5)](#hosted-control-planes-with-mce-mce-25)
     - [Multicluster Global Hub (ACM 2.9)](#multicluster-global-hub-acm-29)
@@ -52,9 +55,6 @@ Features on Development Preview
   - [Insights Proxy ACM Addon](#insights-proxy-acm-addon)
     - [Installation](#installation-6)
     - [Usage](#usage-6)
-  - [Krkn Operator ACM Integration](#krkn-operator-acm-integration)
-    - [Installation](#installation-7)
-    - [Usage](#usage-7)
   - [MCP Server for Search](#mcp-server-for-search)
 
 ## Ansible Collection & Inventory Plugin
